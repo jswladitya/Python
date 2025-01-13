@@ -4,4 +4,7 @@ def chai(n):
     print(n)
 
 chai(3)
-chai("lemon tea")
+
+
+chai_one = "some string"
+Chai_two = "some another string"

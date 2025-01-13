@@ -1,5 +1,0 @@
-# Internal mechanism : watch video
-
-# python shell(interpreter) : watch video
-
-# Mutable & Immutable datatype : watch video
