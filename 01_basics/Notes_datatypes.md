@@ -19,6 +19,7 @@
 
 - Note : Python treats number & strings in a different manner wrt others (list, dist, etc )
 
+- Use dir(your_dataype) to know more about what you can do with the datatype
 
 
 # Notes 
@@ -36,3 +37,14 @@
 - example
 - ![Mutablity & immutability](./innerWorking/4_mutability/1.png)
 - ![Mutablity & immutability](./innerWorking/4_mutability/2.png)
+
+- these will be called as objects when they are been reffered to a variable 
+
+- data types are present in the memory, not the variable which is refferencing it
+
+- means, memory ke ander jo bhi he uska datatype hota he & wo datatype memory ke ander hi assign hota he
+
+- non refferend objects do not get free immediately (or no garbage collection immediately) (specially numbers and strings)
+
+- ![Must know](./Shell/7_slicingImp.png)
+    - in this case , when applied slicing , it just means we copied the object , means h1 has diff reference & h2 diff 
